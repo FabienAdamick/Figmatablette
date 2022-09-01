@@ -1,0 +1,146 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="initial-scale=1, width=device-width" />
+    <title></title>
+    <meta name="description" content="" />
+
+    <link rel="stylesheet" href="./contactez-nous.css" />
+
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Arial:wght@400;700&display=swap"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Inter:wght@400&display=swap"
+    />
+  </head>
+  <body>
+    <div class="contactez-nous-div">
+      <img class="oip-3-icon" alt="" src="public/oip-4@2x.png" /><img
+        class="ellipse-icon6"
+        alt=""
+        src="public/ellipse-8.svg"
+      /><img class="ellipse-icon7" alt="" src="public/ellipse-7.svg" /><img
+        class="ellipse-icon8"
+        alt=""
+        src="public/ellipse-9.svg"
+      />
+      <div class="contactez-nous-div1">CONTACTEZ-NOUS :</div>
+      <div class="nom-prnom">Nom Prénom :</div>
+      <div class="adresse-mail">Adresse mail :</div>
+      <div class="tlphone-div">Téléphone :</div>
+      <div class="vos-modalits-prfrs">Vos modalités préférés :</div>
+      <div class="vous-tes">Vous êtes :</div>
+      <div class="vous-tes-rsident-de">Vous êtes résident de :</div>
+      <b class="demandeur-demploi-b">Demandeur d’emploi </b
+      ><b class="salari-en-transition-pro">Salarié en transition pro </b
+      ><b class="autre-b">Autre</b
+      ><b class="formation-en-prsentiel">Formation en présentiel</b
+      ><b class="distance-b">100% distance</b
+      ><b class="alternance-b">Alternance</b
+      ><b class="pas-de-prfrence">Pas de préférence</b
+      ><img class="component-1-icon" alt="" src="public/component-1.svg" /><img
+        class="component-4-icon"
+        alt=""
+        src="public/component-1.svg"
+      /><img class="component-5-icon" alt="" src="public/component-1.svg" /><img
+        class="component-6-icon"
+        alt=""
+        src="public/component-1.svg"
+      /><img class="component-7-icon" alt="" src="public/component-1.svg" /><img
+        class="component-2-icon"
+        alt=""
+        src="public/component-1.svg"
+      /><img class="component-3-icon" alt="" src="public/component-1.svg" />
+      <div class="group-div14">
+        <div class="group-div15">
+          <div class="rectangle-div13"></div>
+          <div class="rgion-div2">Région</div>
+          <img class="vector-icon2" alt="" src="public/vector-1.svg" />
+        </div>
+      </div>
+      <div class="rectangle-div14"></div>
+      <div class="rectangle-div15"></div>
+      <div class="rectangle-div16"></div>
+      <b class="accueil-b2" id="accueilText">Accueil</b
+      ><b class="la-formation-b2" id="laFormationText">La formation </b
+      ><b class="tmoignages-b2" id="tmoignagesText">Témoignages</b
+      ><b class="nos-rferences-b" id="nosRferencesText">nos réferences</b
+      ><b class="contactez-nous-b2">Contactez-nous</b
+      ><img
+        class="logo-twitter-icon2"
+        alt=""
+        src="public/logo-twitter@2x.png"
+        id="logoTwitterIcon"
+      /><img
+        class="logo-facebook-icon2"
+        alt=""
+        src="public/logo-facebook@2x.png"
+        id="logoFacebookIcon"
+      /><img
+        class="logo-youtube-icon2"
+        alt=""
+        src="public/logo-youtube@2x.png"
+        id="logoYoutubeIcon"
+      />
+      <div class="component-8-div">
+        <div class="rectangle-div17"></div>
+        <div class="envoyer-div">envoyer</div>
+      </div>
+    </div>
+
+    <script>
+      var accueilText = document.getElementById("accueilText");
+      if (accueilText) {
+        accueilText.addEventListener("click", function (e) {
+          window.location.href = "./accueil.html";
+        });
+      }
+      
+      var laFormationText = document.getElementById("laFormationText");
+      if (laFormationText) {
+        laFormationText.addEventListener("click", function (e) {
+          window.location.href = "./la-formation.html";
+        });
+      }
+      
+      var tmoignagesText = document.getElementById("tmoignagesText");
+      if (tmoignagesText) {
+        tmoignagesText.addEventListener("click", function (e) {
+          window.location.href = "/";
+        });
+      }
+      
+      var nosRferencesText = document.getElementById("nosRferencesText");
+      if (nosRferencesText) {
+        nosRferencesText.addEventListener("click", function (e) {
+          window.location.href = "./nos-rfrences.html";
+        });
+      }
+      
+      var logoTwitterIcon = document.getElementById("logoTwitterIcon");
+      if (logoTwitterIcon) {
+        logoTwitterIcon.addEventListener("click", function () {
+          window.open("https://twitter.com/afpa_formation");
+        });
+      }
+      
+      var logoFacebookIcon = document.getElementById("logoFacebookIcon");
+      if (logoFacebookIcon) {
+        logoFacebookIcon.addEventListener("click", function () {
+          window.open("https://www.facebook.com/Afpa.France/");
+        });
+      }
+      
+      var logoYoutubeIcon = document.getElementById("logoYoutubeIcon");
+      if (logoYoutubeIcon) {
+        logoYoutubeIcon.addEventListener("click", function () {
+          window.open("https://www.youtube.com/user/AfpaWebTv");
+        });
+      }
+      </script>
+  </body>
+</html>

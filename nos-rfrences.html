@@ -1,0 +1,130 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="initial-scale=1, width=device-width" />
+    <title></title>
+    <meta name="description" content="" />
+
+    <link rel="stylesheet" href="./nos-rfrences.css" />
+
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Arial:wght@400;700&display=swap"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Inter:wght@400&display=swap"
+    />
+  </head>
+  <body>
+    <div class="nos-rfrences-div">
+      <img class="oip-4-icon1" alt="" src="public/oip-4@2x.png" /><img
+        class="ellipse-icon3"
+        alt=""
+        src="public/ellipse-111.svg"
+      /><img class="ellipse-icon4" alt="" src="public/ellipse-101.svg" /><img
+        class="ellipse-icon5"
+        alt=""
+        src="public/ellipse-121.svg"
+      /><img
+        class="logo-1-icon"
+        alt=""
+        src="public/logo-1@2x.png"
+        id="logo1Image"
+      /><img
+        class="logo-2-icon"
+        alt=""
+        src="public/logo-2@2x.png"
+        id="logo2Image"
+      /><b class="ces-entreprises-nous-ont-fait"
+        >Ces entreprises nous ont fait confiance</b
+      ><b class="accueil-b1" id="accueilText">Accueil</b
+      ><b class="la-formation-b1" id="laFormationText">La formation</b
+      ><b class="tmoignages-b1" id="tmoignagesText">Témoignages</b
+      ><b class="nos-rfrences-b1">Nos références</b
+      ><b class="contactez-nous-b1" id="contactezNousText">Contactez-nous</b
+      ><img
+        class="logo-twitter-icon1"
+        alt=""
+        src="public/logo-twitter@2x.png"
+        id="logoTwitterIcon"
+      /><img
+        class="logo-facebook-icon1"
+        alt=""
+        src="public/logo-facebook@2x.png"
+        id="logoFacebookIcon"
+      /><img
+        class="logo-youtube-icon1"
+        alt=""
+        src="public/logo-youtube@2x.png"
+        id="logoYoutubeIcon"
+      />
+    </div>
+
+    <script>
+      var logo1Image = document.getElementById("logo1Image");
+      if (logo1Image) {
+        logo1Image.addEventListener("click", function () {
+          window.open("https://www.akka-technologies.com/about-us/?lang=fr");
+        });
+      }
+      
+      var logo2Image = document.getElementById("logo2Image");
+      if (logo2Image) {
+        logo2Image.addEventListener("click", function () {
+          window.open("https://www.wisy.fr/wisy-ssii-tulle/");
+        });
+      }
+      
+      var accueilText = document.getElementById("accueilText");
+      if (accueilText) {
+        accueilText.addEventListener("click", function (e) {
+          window.location.href = "./accueil.html";
+        });
+      }
+      
+      var laFormationText = document.getElementById("laFormationText");
+      if (laFormationText) {
+        laFormationText.addEventListener("click", function (e) {
+          window.location.href = "./la-formation.html";
+        });
+      }
+      
+      var tmoignagesText = document.getElementById("tmoignagesText");
+      if (tmoignagesText) {
+        tmoignagesText.addEventListener("click", function (e) {
+          window.location.href = "/";
+        });
+      }
+      
+      var contactezNousText = document.getElementById("contactezNousText");
+      if (contactezNousText) {
+        contactezNousText.addEventListener("click", function (e) {
+          window.location.href = "./contactez-nous.html";
+        });
+      }
+      
+      var logoTwitterIcon = document.getElementById("logoTwitterIcon");
+      if (logoTwitterIcon) {
+        logoTwitterIcon.addEventListener("click", function () {
+          window.open("https://twitter.com/afpa_formation");
+        });
+      }
+      
+      var logoFacebookIcon = document.getElementById("logoFacebookIcon");
+      if (logoFacebookIcon) {
+        logoFacebookIcon.addEventListener("click", function () {
+          window.open("https://www.facebook.com/Afpa.France/");
+        });
+      }
+      
+      var logoYoutubeIcon = document.getElementById("logoYoutubeIcon");
+      if (logoYoutubeIcon) {
+        logoYoutubeIcon.addEventListener("click", function () {
+          window.open("https://www.youtube.com/user/AfpaWebTv");
+        });
+      }
+      </script>
+  </body>
+</html>

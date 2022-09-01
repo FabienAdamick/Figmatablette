@@ -1,0 +1,32 @@
+body {
+  line-height: normal;
+}
+.prrequis {
+  margin-block-start: 0;
+  margin-block-end: 0;
+}
+.accs-la,
+body {
+  margin: 0;
+}
+.prrequis-tre-titulaire-du-ba {
+  position: absolute;
+  top: 80px;
+  left: 145px;
+  display: inline-block;
+}
+.admission-div {
+  position: relative;
+  border-radius: 100px;
+  background-color: #fff;
+  box-shadow: 10px 4px 4px rgba(0, 0, 0, 0.25);
+  width: 1295px;
+  height: 422px;
+  overflow: hidden;
+  max-width: 90%;
+  max-height: 90%;
+  text-align: left;
+  font-size: 24px;
+  color: #000;
+  font-family: Arial;
+}

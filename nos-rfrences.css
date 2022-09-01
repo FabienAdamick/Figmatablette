@@ -1,0 +1,112 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+.oip-4-icon1 {
+  position: absolute;
+  top: 32px;
+  left: 39px;
+  width: 250px;
+  height: 161px;
+  object-fit: cover;
+}
+.ellipse-icon3 {
+  position: absolute;
+  top: 0;
+  left: 457px;
+  width: 1302px;
+  height: 704px;
+}
+.ellipse-icon4,
+.ellipse-icon5 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1274px;
+  height: 1052px;
+}
+.ellipse-icon5 {
+  left: 783px;
+  width: 882px;
+  height: 1099px;
+}
+.logo-1-icon,
+.logo-2-icon {
+  position: absolute;
+  top: 577.49px;
+  left: 39.73px;
+  border-radius: 412px;
+  width: 400px;
+  height: 250.59px;
+  object-fit: cover;
+  cursor: pointer;
+}
+.logo-2-icon {
+  top: 577.37px;
+  left: 524.56px;
+  height: 243.76px;
+}
+.ces-entreprises-nous-ont-fait {
+  position: absolute;
+  top: 328px;
+  left: 39px;
+  font-size: 40px;
+  display: inline-block;
+}
+.accueil-b1,
+.la-formation-b1,
+.tmoignages-b1 {
+  position: absolute;
+  top: 143px;
+  left: 317px;
+  display: inline-block;
+  cursor: pointer;
+}
+.la-formation-b1,
+.tmoignages-b1 {
+  left: 458px;
+}
+.tmoignages-b1 {
+  left: 654px;
+}
+.contactez-nous-b1,
+.nos-rfrences-b1 {
+  position: absolute;
+  top: 143px;
+  left: 858px;
+  display: inline-block;
+}
+.contactez-nous-b1 {
+  left: 1080px;
+  cursor: pointer;
+}
+.logo-facebook-icon1,
+.logo-twitter-icon1,
+.logo-youtube-icon1 {
+  position: absolute;
+  top: 989px;
+  left: 1333px;
+  width: 25px;
+  height: 22px;
+  object-fit: cover;
+  cursor: pointer;
+}
+.logo-facebook-icon1,
+.logo-youtube-icon1 {
+  left: 1302px;
+}
+.logo-youtube-icon1 {
+  left: 1246px;
+  width: 50px;
+}
+.nos-rfrences-div {
+  position: relative;
+  background-color: #fff;
+  width: 100%;
+  height: 1024px;
+  overflow: hidden;
+  text-align: left;
+  font-size: 22px;
+  color: #000;
+  font-family: Arial;
+}
