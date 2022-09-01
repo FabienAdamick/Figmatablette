@@ -1,0 +1,415 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+.popup-overlay {
+  display: flex;
+  flex-direction: column;
+  position: fixed;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+}
+.oip-2-icon {
+  position: absolute;
+  top: 38px;
+  left: 46px;
+  width: 250px;
+  height: 161px;
+  object-fit: cover;
+}
+.ellipse-icon10,
+.ellipse-icon9 {
+  position: absolute;
+  top: 0;
+  left: 375px;
+  width: 1281px;
+  height: 907px;
+}
+.ellipse-icon10 {
+  left: 0;
+  width: 1177px;
+  height: 974px;
+}
+.ellipse-icon11,
+.rectangle-div18 {
+  position: absolute;
+  top: 0;
+  left: 706px;
+  width: 1096px;
+  height: 1170px;
+}
+.rectangle-div18 {
+  left: 0;
+  background-color: #78be20;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  width: 500px;
+  height: 50px;
+}
+.le-mtier-div1 {
+  position: absolute;
+  top: 2px;
+  left: 156px;
+  display: inline-block;
+  width: 177.5px;
+}
+.group-div16,
+.rectangle-div19 {
+  position: absolute;
+  top: 527px;
+  left: 68px;
+  box-shadow: 10px 4px 4px rgba(0, 0, 0, 0.25);
+  width: 500px;
+  height: 50px;
+}
+.rectangle-div19 {
+  top: 0;
+  left: 0;
+  background-color: #78be20;
+  height: 51.82px;
+}
+.qualifications-div {
+  position: absolute;
+  top: 6px;
+  left: 128px;
+  display: inline-block;
+  width: 460px;
+  height: 30px;
+}
+.group-div17,
+.rectangle-div20 {
+  position: absolute;
+  top: 668px;
+  left: 68px;
+  width: 588px;
+  height: 51.82px;
+}
+.rectangle-div20 {
+  top: 0;
+  left: 0;
+  background-color: #78be20;
+  box-shadow: 10px 4px 4px rgba(0, 0, 0, 0.25);
+  width: 500px;
+  height: 60px;
+}
+.admission-div1 {
+  position: absolute;
+  top: 4px;
+  left: 146px;
+  display: inline-block;
+  width: 375px;
+  height: 58.5px;
+}
+.group-div18,
+.rectangle-div21 {
+  position: absolute;
+  top: 811px;
+  left: 68px;
+  width: 521px;
+  height: 62.5px;
+}
+.rectangle-div21 {
+  top: 0;
+  left: 0;
+  background-color: #78be20;
+  box-shadow: 10px 4px 4px rgba(0, 0, 0, 0.25);
+  width: 500px;
+  height: 54.55px;
+}
+.les-modalits-dapprentissage {
+  position: absolute;
+  top: 8px;
+  left: 28px;
+  display: inline-block;
+  width: 491.4px;
+  height: 53.18px;
+}
+.group-div19 {
+  position: absolute;
+  top: 529px;
+  left: 742px;
+  width: 519.4px;
+  height: 61.18px;
+  font-size: 32px;
+}
+.rectangle-div22 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: #78be20;
+  box-shadow: 10px 4px 4px rgba(0, 0, 0, 0.25);
+  width: 500px;
+  height: 58.46px;
+}
+.dure-div1 {
+  position: absolute;
+  top: 9.46px;
+  left: 174px;
+  display: inline-block;
+  width: 379.17px;
+  height: 60px;
+}
+.group-div20 {
+  position: absolute;
+  top: 665px;
+  left: 738px;
+  width: 553.17px;
+  height: 69.46px;
+}
+.notre-pdagogie-div1 {
+  position: absolute;
+  top: 8px;
+  left: 83px;
+  display: inline-block;
+  width: 470.48px;
+  height: 52px;
+}
+.group-div21 {
+  position: absolute;
+  top: 811px;
+  left: 738px;
+  width: 553.48px;
+  height: 60px;
+}
+.accueil-b3,
+.la-formation-dwwm {
+  position: absolute;
+  top: 364px;
+  left: 436px;
+  font-size: 48px;
+  color: #000;
+  display: inline-block;
+}
+.accueil-b3 {
+  top: 144px;
+  left: 318px;
+  font-size: 24px;
+  cursor: pointer;
+}
+.contactez-nous-b3,
+.la-formation-b3,
+.nos-rferences-b1,
+.tmoignages-b3 {
+  position: absolute;
+  top: 144px;
+  left: 461px;
+  font-size: 24px;
+  display: inline-block;
+  color: #000;
+}
+.contactez-nous-b3,
+.nos-rferences-b1,
+.tmoignages-b3 {
+  top: 142px;
+  left: 878px;
+  cursor: pointer;
+}
+.contactez-nous-b3,
+.tmoignages-b3 {
+  left: 1109px;
+}
+.tmoignages-b3 {
+  top: 144px;
+  left: 664px;
+  width: 157px;
+  height: 31px;
+}
+.logo-facebook-icon3,
+.logo-twitter-icon3,
+.logo-youtube-icon3 {
+  position: absolute;
+  top: 987px;
+  left: 1322px;
+  width: 25px;
+  height: 22px;
+  object-fit: cover;
+  cursor: pointer;
+}
+.logo-facebook-icon3,
+.logo-youtube-icon3 {
+  left: 1291px;
+}
+.logo-youtube-icon3 {
+  left: 1235px;
+  width: 50px;
+}
+.la-formation-div {
+  position: relative;
+  background-color: #fff;
+  width: 100%;
+  height: 1024px;
+  overflow: hidden;
+  text-align: left;
+  font-size: 40px;
+  color: #fff;
+  font-family: Arial;
+}
+.selon-les-tablissements {
+  margin-block-start: 0;
+  margin-block-end: 0;
+}
+.alternance-avec-des {
+  margin: 0;
+}
+.selon-les-tablissements-et-la {
+  position: absolute;
+  top: 132px;
+  left: 203px;
+  display: inline-block;
+}
+.modalits-div {
+  position: relative;
+  border-radius: 100px;
+  background-color: #fff;
+  box-shadow: 10px 4px 4px rgba(0, 0, 0, 0.25);
+  width: 1200px;
+  height: 409px;
+  overflow: hidden;
+  max-width: 90%;
+  max-height: 90%;
+  text-align: left;
+  font-size: 24px;
+  color: #000;
+  font-family: Arial;
+}
+.adapte-en-fonction {
+  margin-block-start: 0;
+  margin-block-end: 0;
+}
+.et-des-acquis {
+  margin: 0;
+}
+.mois-environ-1190-heures-ad {
+  position: absolute;
+  top: 58px;
+  left: 218px;
+  display: inline-block;
+}
+.dure-div {
+  position: relative;
+  border-radius: 100px;
+  background-color: #fff;
+  box-shadow: 10px 4px 4px rgba(0, 0, 0, 0.25);
+  width: 1000px;
+  height: 231px;
+  overflow: hidden;
+  max-width: 90%;
+  max-height: 90%;
+  text-align: left;
+  font-size: 24px;
+  color: #000;
+  font-family: Arial;
+}
+.notre-pdagige-privilgie {
+  margin-block-start: 0;
+  margin-block-end: 0;
+}
+.nous-crons-un {
+  margin: 0;
+}
+.notre-pdagige-privilgie-la-p {
+  position: absolute;
+  top: 98px;
+  left: 191px;
+  display: inline-block;
+}
+.notre-pdagogie-div {
+  position: relative;
+  border-radius: 100px;
+  background-color: #fff;
+  box-shadow: 10px 4px 4px rgba(0, 0, 0, 0.25);
+  width: 1300px;
+  height: 400px;
+  overflow: hidden;
+  max-width: 90%;
+  max-height: 90%;
+  text-align: left;
+  font-size: 24px;
+  color: #000;
+  font-family: Arial;
+}
+.prrequis {
+  margin-block-start: 0;
+  margin-block-end: 0;
+}
+.accs-la {
+  margin: 0;
+}
+.prrequis-tre-titulaire-du-ba {
+  position: absolute;
+  top: 80px;
+  left: 145px;
+  display: inline-block;
+}
+.admission-div {
+  position: relative;
+  border-radius: 100px;
+  background-color: #fff;
+  box-shadow: 10px 4px 4px rgba(0, 0, 0, 0.25);
+  width: 1295px;
+  height: 422px;
+  overflow: hidden;
+  max-width: 90%;
+  max-height: 90%;
+  text-align: left;
+  font-size: 24px;
+  color: #000;
+  font-family: Arial;
+}
+.titre-professionnel-de {
+  margin-block-start: 0;
+  margin-block-end: 0;
+}
+.web-et-web {
+  margin: 0;
+}
+.titre-professionnel-de-niveau {
+  position: absolute;
+  top: 87px;
+  left: 152px;
+  display: inline-block;
+}
+.qualification-div {
+  position: relative;
+  border-radius: 100px;
+  background-color: #fff;
+  box-shadow: 10px 4px 4px rgba(0, 0, 0, 0.25);
+  width: 1000px;
+  height: 277px;
+  overflow: hidden;
+  max-width: 90%;
+  max-height: 90%;
+  text-align: left;
+  font-size: 24px;
+  color: #000;
+  font-family: Arial;
+}
+.le-dveloppeur-web {
+  margin-block-start: 0;
+  margin-block-end: 0;
+}
+.projet-et-de {
+  margin: 0;
+}
+.le-dveloppeur-web-la-dvelo {
+  position: absolute;
+  top: 159px;
+  left: 221px;
+  display: inline-block;
+}
+.le-mtier-div {
+  position: relative;
+  border-radius: 100px;
+  background-color: #fff;
+  box-shadow: 10px 4px 4px rgba(0, 0, 0, 0.25);
+  width: 1000px;
+  height: 500px;
+  overflow: hidden;
+  max-width: 90%;
+  max-height: 90%;
+  text-align: left;
+  font-size: 24px;
+  color: #000;
+  font-family: Arial;
+}

@@ -1,0 +1,218 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+.oip-4-icon {
+  position: absolute;
+  top: 32px;
+  left: 39px;
+  width: 250px;
+  height: 161px;
+  object-fit: cover;
+}
+.ellipse-icon,
+.ellipse-icon1 {
+  position: absolute;
+  top: 0;
+  left: 457px;
+  width: 1302px;
+  height: 704px;
+}
+.ellipse-icon1 {
+  left: 0;
+  width: 1274px;
+  height: 1052px;
+}
+.ellipse-icon2,
+.th-3-div {
+  position: absolute;
+  top: 0;
+  left: 783px;
+  width: 882px;
+  height: 1099px;
+}
+.th-3-div {
+  top: 943px;
+  left: 1264px;
+  width: 51.01px;
+  height: 50px;
+  cursor: pointer;
+}
+.accueil-b,
+.la-formation-b {
+  position: absolute;
+  top: 143px;
+  left: 317px;
+  display: inline-block;
+  cursor: pointer;
+}
+.la-formation-b {
+  left: 458px;
+}
+.contactez-nous-b,
+.nos-rfrences-b,
+.tmoignages-b {
+  position: absolute;
+  top: 143px;
+  left: 654px;
+  display: inline-block;
+}
+.contactez-nous-b,
+.nos-rfrences-b {
+  left: 858px;
+  cursor: pointer;
+}
+.contactez-nous-b {
+  left: 1080px;
+}
+.rectangle-div {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 50px;
+  background-color: #fff;
+  width: 300px;
+  height: 600px;
+}
+.portrait-1-icon {
+  position: absolute;
+  top: 22px;
+  left: 57px;
+  width: 128px;
+  height: 87px;
+  object-fit: cover;
+}
+.alexis-garnier-p {
+  margin-block-start: 0;
+  margin-block-end: 0;
+}
+.entreprise-b {
+  font-family: Arial;
+}
+.p3 {
+  margin: 0;
+}
+.alexis-garnier-entreprise-wi {
+  position: absolute;
+  top: 124px;
+  left: 29px;
+  display: inline-block;
+  width: 208px;
+  height: 467px;
+}
+.group-div,
+.rectangle-div1 {
+  position: absolute;
+  box-shadow: 10px 4px 4px rgba(0, 0, 0, 0.25);
+  height: 600px;
+}
+.group-div {
+  top: 301px;
+  left: 113px;
+  width: 300px;
+  font-size: 14px;
+}
+.rectangle-div1 {
+  top: 0;
+  left: 0;
+  border-radius: 50px;
+  background-color: #fff;
+  width: 301px;
+}
+.portrait-2-icon {
+  position: absolute;
+  top: 3px;
+  left: 87px;
+  width: 128px;
+  height: 99.37px;
+  object-fit: cover;
+}
+.sarah-chesne-entreprise-sii {
+  position: absolute;
+  top: 121px;
+  left: 22px;
+  display: inline-block;
+  width: 277px;
+  height: 466px;
+}
+.group-div1,
+.rectangle-div2 {
+  position: absolute;
+  height: 600px;
+}
+.group-div1 {
+  top: 306px;
+  left: 538px;
+  width: 301px;
+  font-size: 14px;
+}
+.rectangle-div2 {
+  top: 0;
+  left: 0;
+  border-radius: 50px;
+  background-color: #fff;
+  box-shadow: 10px 4px 4px rgba(0, 0, 0, 0.25);
+  width: 300px;
+}
+.portrait-3-icon {
+  position: absolute;
+  top: 20px;
+  left: 77px;
+  width: 128px;
+  height: 101.55px;
+  object-fit: cover;
+}
+.antoine-germanique-entreprise {
+  position: absolute;
+  top: 126px;
+  left: 16px;
+  display: inline-block;
+  width: 280px;
+  height: 473px;
+}
+.group-div2 {
+  position: absolute;
+  top: 303px;
+  left: 964px;
+  width: 300px;
+  height: 600px;
+  font-size: 13px;
+}
+.les-stagiaires-tmoignent {
+  position: absolute;
+  top: 214px;
+  left: 439px;
+  font-size: 40px;
+  display: inline-block;
+  filter: blur(0);
+}
+.logo-facebook-icon,
+.logo-twitter-icon,
+.logo-youtube-icon {
+  position: absolute;
+  top: 993px;
+  left: 1330px;
+  width: 25px;
+  height: 22px;
+  object-fit: cover;
+  cursor: pointer;
+}
+.logo-facebook-icon,
+.logo-youtube-icon {
+  left: 1299px;
+}
+.logo-youtube-icon {
+  left: 1243px;
+  width: 50px;
+}
+.tmoignages-div {
+  position: relative;
+  background-color: #fff;
+  width: 100%;
+  height: 1024px;
+  overflow: hidden;
+  text-align: left;
+  font-size: 22px;
+  color: #000;
+  font-family: Arial;
+}

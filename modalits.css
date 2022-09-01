@@ -1,0 +1,32 @@
+body {
+  line-height: normal;
+}
+.selon-les-tablissements {
+  margin-block-start: 0;
+  margin-block-end: 0;
+}
+.alternance-avec-des,
+body {
+  margin: 0;
+}
+.selon-les-tablissements-et-la {
+  position: absolute;
+  top: 132px;
+  left: 203px;
+  display: inline-block;
+}
+.modalits-div {
+  position: relative;
+  border-radius: 100px;
+  background-color: #fff;
+  box-shadow: 10px 4px 4px rgba(0, 0, 0, 0.25);
+  width: 1200px;
+  height: 409px;
+  overflow: hidden;
+  max-width: 90%;
+  max-height: 90%;
+  text-align: left;
+  font-size: 24px;
+  color: #000;
+  font-family: Arial;
+}

@@ -1,0 +1,313 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+.oip-3-icon {
+  position: absolute;
+  top: 0;
+  left: 22px;
+  width: 250px;
+  height: 161px;
+  object-fit: cover;
+}
+.ellipse-icon6 {
+  position: absolute;
+  top: 0;
+  left: 525px;
+  width: 1208px;
+  height: 967px;
+}
+.ellipse-icon7,
+.ellipse-icon8 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1384px;
+  height: 1093px;
+}
+.ellipse-icon8 {
+  left: 1025px;
+  width: 828px;
+  height: 1096px;
+}
+.adresse-mail,
+.contactez-nous-div1,
+.nom-prnom,
+.tlphone-div {
+  position: absolute;
+  top: 336px;
+  left: 22px;
+  display: inline-block;
+}
+.adresse-mail,
+.nom-prnom,
+.tlphone-div {
+  top: 437px;
+}
+.adresse-mail,
+.tlphone-div {
+  top: 512px;
+}
+.tlphone-div {
+  top: 587px;
+}
+.vos-modalits-prfrs,
+.vous-tes,
+.vous-tes-rsident-de {
+  position: absolute;
+  top: 737px;
+  left: 22px;
+  display: inline-block;
+}
+.vous-tes,
+.vous-tes-rsident-de {
+  top: 662px;
+  left: 26px;
+}
+.vous-tes-rsident-de {
+  top: 812px;
+  left: 22px;
+}
+.autre-b,
+.demandeur-demploi-b,
+.salari-en-transition-pro {
+  position: absolute;
+  top: 674px;
+  left: 363px;
+  font-size: 16px;
+  display: inline-block;
+}
+.autre-b,
+.salari-en-transition-pro {
+  left: 660px;
+}
+.autre-b {
+  left: 982px;
+}
+.alternance-b,
+.distance-b,
+.formation-en-prsentiel,
+.pas-de-prfrence {
+  position: absolute;
+  top: 749px;
+  left: 480px;
+  font-size: 16px;
+  display: inline-block;
+}
+.alternance-b,
+.distance-b,
+.pas-de-prfrence {
+  left: 750px;
+}
+.alternance-b,
+.pas-de-prfrence {
+  left: 951px;
+}
+.pas-de-prfrence {
+  left: 1123px;
+}
+.component-1-icon,
+.component-4-icon,
+.component-5-icon {
+  position: absolute;
+  top: 672px;
+  left: 315px;
+  width: 24px;
+  height: 24px;
+  overflow: hidden;
+}
+.component-4-icon,
+.component-5-icon {
+  top: 746px;
+  left: 432px;
+}
+.component-5-icon {
+  top: 747px;
+  left: 701px;
+}
+.component-2-icon,
+.component-3-icon,
+.component-6-icon,
+.component-7-icon {
+  position: absolute;
+  top: 748px;
+  left: 911px;
+  width: 24px;
+  height: 24px;
+  overflow: hidden;
+}
+.component-2-icon,
+.component-3-icon,
+.component-7-icon {
+  top: 749px;
+  left: 1083px;
+}
+.component-2-icon,
+.component-3-icon {
+  top: 672px;
+  left: 613px;
+}
+.component-3-icon {
+  left: 929px;
+}
+.rectangle-div13 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: 50px;
+  background-color: #fff;
+}
+.rgion-div2 {
+  position: absolute;
+  height: 56%;
+  width: 38.5%;
+  top: 20%;
+  right: 45.5%;
+  bottom: 24%;
+  left: 16%;
+  display: inline-block;
+}
+.vector-icon2 {
+  position: absolute;
+  height: 41.3%;
+  width: 10.48%;
+  top: 28.29%;
+  right: 10.65%;
+  bottom: 30.41%;
+  left: 78.87%;
+  max-width: 100%;
+  max-height: 100%;
+}
+.group-div15 {
+  position: absolute;
+  height: 20%;
+  width: 100%;
+  top: 5.2%;
+  right: 0;
+  bottom: 74.8%;
+  left: 0;
+}
+.group-div14 {
+  position: absolute;
+  top: 798px;
+  left: 437px;
+  width: 200px;
+  height: 250px;
+  font-size: 24px;
+}
+.rectangle-div14,
+.rectangle-div15,
+.rectangle-div16 {
+  position: absolute;
+  top: 437px;
+  left: 337px;
+  border-radius: 50px;
+  background-color: #fff;
+  width: 300px;
+  height: 50px;
+}
+.rectangle-div15,
+.rectangle-div16 {
+  top: 507px;
+}
+.rectangle-div16 {
+  top: 577px;
+}
+.accueil-b2,
+.la-formation-b2 {
+  position: absolute;
+  top: 107px;
+  left: 339px;
+  font-size: 24px;
+  display: inline-block;
+  cursor: pointer;
+}
+.la-formation-b2 {
+  left: 480px;
+}
+.tmoignages-b2 {
+  left: 681px;
+  width: 157px;
+  height: 31px;
+  cursor: pointer;
+}
+.contactez-nous-b2,
+.nos-rferences-b,
+.tmoignages-b2 {
+  position: absolute;
+  top: 107px;
+  font-size: 24px;
+  display: inline-block;
+}
+.nos-rferences-b {
+  left: 896px;
+  cursor: pointer;
+}
+.contactez-nous-b2 {
+  left: 1123px;
+}
+.logo-facebook-icon2,
+.logo-twitter-icon2,
+.logo-youtube-icon2 {
+  position: absolute;
+  top: 1248px;
+  left: 1327px;
+  width: 25px;
+  height: 22px;
+  object-fit: cover;
+  cursor: pointer;
+}
+.logo-facebook-icon2,
+.logo-youtube-icon2 {
+  left: 1296px;
+}
+.logo-youtube-icon2 {
+  left: 1240px;
+  width: 50px;
+}
+.rectangle-div17 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: 100px;
+  background: linear-gradient(180deg, #78be20, rgba(120, 190, 32, 0));
+  box-shadow: 5px 4px 4px rgba(0, 0, 0, 0.25);
+}
+.envoyer-div {
+  position: absolute;
+  height: 66.67%;
+  width: 47.8%;
+  top: 16.67%;
+  right: 26.42%;
+  bottom: 16.67%;
+  left: 25.79%;
+  display: inline-block;
+}
+.component-8-div {
+  position: absolute;
+  top: 1020px;
+  left: 1083px;
+  width: 159px;
+  height: 36px;
+  font-size: 20px;
+  font-family: Inter;
+}
+.contactez-nous-div {
+  position: relative;
+  background-color: #fff;
+  width: 100%;
+  height: 1286px;
+  overflow: hidden;
+  text-align: left;
+  font-size: 32px;
+  color: #000;
+  font-family: Arial;
+}

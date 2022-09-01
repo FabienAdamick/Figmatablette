@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="initial-scale=1, width=device-width" />
+    <title></title>
+    <meta name="description" content="" />
+
+    <link rel="stylesheet" href="./accueil.css" />
+
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Arial:wght@400;700&display=swap"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Inter:wght@400&display=swap"
+    />
+  </head>
+  <body>
+    <div class="accueil-div">
+      <img class="oip-1-icon" alt="" src="public/oip-4@2x.png" /><img
+        class="ellipse-icon12"
+        alt=""
+        src="public/ellipse-1.svg"
+      /><img class="ellipse-icon13" alt="" src="public/ellipse-3.svg" /><img
+        class="ellipse-icon14"
+        alt=""
+        src="public/ellipse-2.svg"
+      /><img class="oip-1-1" alt="" src="public/oip-1-1@2x.png" /><b
+        class="formation-web-et-web-mobile-un"
+        ><p class="formation-web-et">FORMATION WEB ET WEB MOBILE</p>
+        <p class="formation-web-et">Une formation gratuite et rémunérée</p>
+        <p class="formation-web-et">pour les demandeurs d’emplois.</p>
+        <p class="formation-web-et">&nbsp;</p>
+        <p class="blank-line-p8">&nbsp;</p></b
+      >
+      <div class="group-div22" id="groupContainer">
+        <div class="rectangle-div24"></div>
+        <b class="je-dcouvre-la-formation"
+          ><p class="formation-web-et">Je découvre la formation</p></b
+        >
+      </div>
+      <b class="accueil-b4">Accueil</b
+      ><b class="la-formation-b4" id="laFormationText">La formation </b
+      ><b class="tmoignages-b4" id="tmoignagesText">Témoignages</b
+      ><b class="nos-rfrences-b2" id="nosRfrencesText">Nos références</b
+      ><b class="contactez-nous-b4" id="contactezNousText">Contactez-nous</b
+      ><img
+        class="logo-twitter-icon4"
+        alt=""
+        src="public/logo-twitter@2x.png"
+        id="logoTwitterIcon"
+      /><img
+        class="logo-facebook-icon4"
+        alt=""
+        src="public/logo-facebook@2x.png"
+        id="logoFacebookIcon"
+      /><img
+        class="logo-youtube-icon4"
+        alt=""
+        src="public/logo-youtube@2x.png"
+        id="logoYoutubeIcon"
+      />
+    </div>
+
+    <script>
+      var groupContainer = document.getElementById("groupContainer");
+      if (groupContainer) {
+        groupContainer.addEventListener("click", function (e) {
+          window.location.href = "./la-formation.html";
+        });
+      }
+      
+      var laFormationText = document.getElementById("laFormationText");
+      if (laFormationText) {
+        laFormationText.addEventListener("click", function (e) {
+          window.location.href = "./la-formation.html";
+        });
+      }
+      
+      var tmoignagesText = document.getElementById("tmoignagesText");
+      if (tmoignagesText) {
+        tmoignagesText.addEventListener("click", function (e) {
+          window.location.href = "/";
+        });
+      }
+      
+      var nosRfrencesText = document.getElementById("nosRfrencesText");
+      if (nosRfrencesText) {
+        nosRfrencesText.addEventListener("click", function (e) {
+          window.location.href = "./nos-rfrences.html";
+        });
+      }
+      
+      var contactezNousText = document.getElementById("contactezNousText");
+      if (contactezNousText) {
+        contactezNousText.addEventListener("click", function (e) {
+          window.location.href = "./contactez-nous.html";
+        });
+      }
+      
+      var logoTwitterIcon = document.getElementById("logoTwitterIcon");
+      if (logoTwitterIcon) {
+        logoTwitterIcon.addEventListener("click", function () {
+          window.open("https://twitter.com/afpa_formation");
+        });
+      }
+      
+      var logoFacebookIcon = document.getElementById("logoFacebookIcon");
+      if (logoFacebookIcon) {
+        logoFacebookIcon.addEventListener("click", function () {
+          window.open("https://www.facebook.com/Afpa.France/");
+        });
+      }
+      
+      var logoYoutubeIcon = document.getElementById("logoYoutubeIcon");
+      if (logoYoutubeIcon) {
+        logoYoutubeIcon.addEventListener("click", function () {
+          window.open("https://www.youtube.com/user/AfpaWebTv");
+        });
+      }
+      </script>
+  </body>
+</html>

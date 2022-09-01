@@ -1,0 +1,156 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+.popup-overlay {
+  display: flex;
+  flex-direction: column;
+  position: fixed;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+}
+.oip-1-icon {
+  position: absolute;
+  top: 69px;
+  left: 42px;
+  width: 250px;
+  height: 161px;
+  object-fit: cover;
+}
+.ellipse-icon12,
+.ellipse-icon13 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1196px;
+  height: 894px;
+}
+.ellipse-icon13 {
+  left: 795px;
+  width: 1096px;
+  height: 1086px;
+}
+.ellipse-icon14,
+.oip-1-1 {
+  position: absolute;
+  top: 0;
+  left: 460px;
+  width: 1095px;
+  height: 898px;
+}
+.oip-1-1 {
+  top: 531px;
+  left: 0;
+  width: 647px;
+  height: 493px;
+  object-fit: cover;
+}
+.formation-web-et {
+  margin-block-start: 0;
+  margin-block-end: 0;
+}
+.blank-line-p8 {
+  margin: 0;
+}
+.formation-web-et-web-mobile-un {
+  position: absolute;
+  top: 531px;
+  left: 660px;
+  font-size: 36px;
+  display: inline-block;
+  width: 694px;
+  height: 221px;
+  text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+}
+.rectangle-div24 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: #78be20;
+  border: 2px solid #000;
+  box-sizing: border-box;
+  width: 295px;
+  height: 35px;
+}
+.je-dcouvre-la-formation {
+  position: absolute;
+  top: 6px;
+  left: 15px;
+  display: inline-block;
+  width: 269px;
+  height: 35px;
+}
+.group-div22 {
+  position: absolute;
+  top: 752px;
+  left: 660px;
+  width: 295px;
+  height: 41px;
+  cursor: pointer;
+  font-size: 22px;
+}
+.accueil-b4 {
+  position: absolute;
+  top: 174px;
+  left: 328px;
+  display: inline-block;
+}
+.la-formation-b4 {
+  top: 174px;
+  left: 460px;
+}
+.contactez-nous-b4,
+.la-formation-b4,
+.nos-rfrences-b2,
+.tmoignages-b4 {
+  position: absolute;
+  display: inline-block;
+  cursor: pointer;
+}
+.tmoignages-b4 {
+  top: 174px;
+  left: 652px;
+  width: 157px;
+  height: 31px;
+}
+.contactez-nous-b4,
+.nos-rfrences-b2 {
+  top: 175px;
+  left: 855px;
+}
+.contactez-nous-b4 {
+  top: 174px;
+  left: 1075px;
+}
+.logo-facebook-icon4,
+.logo-twitter-icon4,
+.logo-youtube-icon4 {
+  position: absolute;
+  top: 984px;
+  left: 1322px;
+  width: 25px;
+  height: 22px;
+  object-fit: cover;
+  cursor: pointer;
+}
+.logo-facebook-icon4,
+.logo-youtube-icon4 {
+  left: 1291px;
+}
+.logo-youtube-icon4 {
+  left: 1235px;
+  width: 50px;
+}
+.accueil-div {
+  position: relative;
+  background-color: #fff;
+  width: 100%;
+  height: 1024px;
+  overflow: hidden;
+  text-align: left;
+  font-size: 24px;
+  color: #000;
+  font-family: Arial;
+}
